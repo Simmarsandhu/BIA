@@ -70,9 +70,9 @@ body {
     height: auto;
     background-color: #ffffff;
     
-    margin-right:50px;
+    margin-right:100px;
     margin-top: 80px;
-    border-collapse: separate;
+   margin-left: 30px;
     box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.15);
 }
 
