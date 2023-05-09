@@ -103,6 +103,24 @@ body{
   height: 200px;
   width: 400px;
 }
+button.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 300px;
+  border: 3px solid #73AD21;
+background-color: #130F0B;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  
+}
 .footer {
     margin-top: 100px;
     display: flex;
